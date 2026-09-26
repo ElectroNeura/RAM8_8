@@ -216,7 +216,7 @@ control signals, and sequential elements generated during RTL elaboration.
 
 ### RTL Schematic
 
-![RAM 8×8 RTL Schematic](diagrams/rtl_schematic.jpg)
+![RAM 8×8 RTL Schematic](diagrams/rtl_schematic.png)
 
 ### RTL-to-Hardware Representation
 
