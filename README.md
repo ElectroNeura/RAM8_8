@@ -128,7 +128,7 @@ Therefore:
 
 ### RTL Source
 
-[View RAM8_8.v](rtl/Ram8_8.v)
+[View Ram8_8.v](rtl/Ram8_8.v)
 
 ---
 
@@ -165,7 +165,7 @@ Read Address 3 → d_out = 08
 
 ### Testbench Source
 
-[View tb_RAM8_8.v](tb/tb_Ram8_8.v)
+[View Ram8_8tb.v](testbench/Ram8_8tb.v)
 
 ---
 
